@@ -37,7 +37,7 @@ College-Event-Management-System/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/vedikaraghuwanshi227-coder/Event_Management.git
+git clone https://github.com/vedikaraghuwanshi227/Event_Management.git
 ```
 
 ### Step 2: Open the Project Directory
